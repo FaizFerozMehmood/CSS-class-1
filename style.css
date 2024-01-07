@@ -1,0 +1,36 @@
+#inputBar {
+    padding: 10px 5px;
+    width: 95%;
+}
+
+.container {
+    width: 70%;
+    background-color: aqua;
+
+
+    border: 1px solid aqua;
+    margin: 10px auto;
+
+
+}
+
+button {
+    background-color: aqua;
+    color: white;
+    border: none;
+}
+
+.smit {
+
+    background-color: aliceblue;
+    height: 250px;
+}
+
+body {
+    background-color: rgba(139, 0, 0, 0.983)
+}
+
+h4 {
+    color: aqua;
+    font-size: large;
+}
